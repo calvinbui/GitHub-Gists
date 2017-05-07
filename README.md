@@ -1,2 +1,1 @@
-# GitHub-Gists
-A link to my Gists
+# [https://gist.github.com/calvinbui](https://gist.github.com/calvinbui)
